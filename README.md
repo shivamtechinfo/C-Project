@@ -16,3 +16,5 @@ Swap Numbers Without Using Temporary Variables
 swap two number using pointers with temperory variable
 swap two number using pointers without temperory variable
 Write a C program to teake input and print array elements .
+Find the largest number among the three numbers.
+Write a Program to check whether a number is prime or not.
